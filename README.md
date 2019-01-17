@@ -19,7 +19,7 @@ The player attempts to place the minimum number of cameras such that the entire 
 Member | Skills | Personal Traits | Desired Growth | Weaknesses
 --- | --- | --- | --- | ---
 Geraldine | Prototyping, knows Unity, can do art, UX/UI, frontend | Detail oriented | Rapid prototyping, backend/networking | Works better during daytime (Not awake after midnight)
-Jason | Aesthetics 😏, backend 🤪, oral 💦 communication | Goal setter, Disciplined, Fun | Design, Database management | Design, Graphics, Frontend development
+Jason | Aesthetics, backend, oral communication | Goal setter, Disciplined, Fun | Design, Database management | Design, Graphics, Frontend development
 Kyu Seo | Documentation, Product Management, Organization, Backend | Strong opinions, detail oriented | Working with large code base | Frontend
 Lucas | Python, C++, Artificial Intelligence | Cooperative, Nerdy | Computer Science Knowledge, Working in Teams, Project Development Cycle | Procrastinator, Ticklish
 Marc | Programming, teamwork | Collaborative, opinionated | Game development; working in a team on independent project | Sometimes lacking focus / discipline
