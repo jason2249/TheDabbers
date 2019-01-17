@@ -35,3 +35,5 @@ Jason Lin | Jason0@stanford.edu
 Kyu seo Ahn | kyuseo@stanford.edu
 Lucas Ramos | ramosl@stanford.edu
 Marc Robert Wong | marcrowo@stanford.edu
+
+3. [Weekly SGM worksheet](https://docs.google.com/forms/d/e/1FAIpQLSfKU7BM89Z9WdtsCl3EhV44_S7xK-IFA6AB5SxgV4YmQWd1Gw/viewform?vc=0&c=0&w=1)
