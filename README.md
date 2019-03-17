@@ -10,6 +10,8 @@
 
  
 # Project Synopsis
+Our game is live on itch: https://geraldine.itch.io/boy-gets-ghosted
+
 Two player cooperative platformer. One player controls an avatar that plays a relatively straightforward platforming game that tests the players reaction time and platforming abilities. Player two takes control of a ghost that does not need to platform but rather assists player one by controlling various aspects of the enviornment. For example, player one may need to cross a large pit but he cannot make the jump in one go. Player two could push a rock located near the ceiling to create an intermediate platform that player one can use to cross the chasm.
 
 The goal is to create a gaming experience that is engaging for both the platforming junkie and the puzzle lover, and to force these two players to work together to overcome a variety of challenging and creative levels.
