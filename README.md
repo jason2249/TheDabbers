@@ -1,12 +1,12 @@
 # The Dabbers
 
-![The Dabbers Logo](https://github.com/StanfordCS194/Team-19/blob/master/team_images/TheDabbers.PNG "Pure Swag")
+![The Dabbers Logo](team_images/TheDabbers.PNG "Pure Swag")
 
 # Team Members
 
 | Geraldine | Jason | Kyu | Lucas | Marc |
 | :-------: |:-------:| :-------: | :-------: | :-------: |
-| ![Geraldine Dabbing](https://github.com/StanfordCS194/Team-19/blob/master/team_images/geraldine.jpeg "Geraldine Lopez") | ![Jason Dabbing](https://github.com/StanfordCS194/Team-19/blob/master/team_images/jason.jpeg "Jason Lin") | ![Kyu Dabbing](https://github.com/StanfordCS194/Team-19/blob/master/team_images/kyu.jpeg "Kyu Seo Ahn") | ![Lucas Dabbing](https://github.com/StanfordCS194/Team-19/blob/master/team_images/lucas.jpeg "Lucas Ramos") | ![Marc Dabbing](https://github.com/StanfordCS194/Team-19/blob/master/team_images/marc.jpeg "Marc Robert Wong") |
+| ![Geraldine Dabbing](team_images/geraldine.jpeg "Geraldine Lopez") | ![Jason Dabbing](team_images/jason.jpeg "Jason Lin") | ![Kyu Dabbing](team_images/kyu.jpeg "Kyu Seo Ahn") | ![Lucas Dabbing](team_images/lucas.jpeg "Lucas Ramos") | ![Marc Dabbing](team_images/marc.jpeg "Marc Robert Wong") |
 
  
 # Project Synopsis
